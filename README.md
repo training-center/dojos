@@ -1,1 +1,3 @@
-# dojo
+# Dojo
+
+Exercícios de fixação
