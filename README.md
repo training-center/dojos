@@ -1,3 +1,3 @@
 # Dojo
 
-Exercícios de fixação
+Desafios para os membros dos Grupos de estudos.
