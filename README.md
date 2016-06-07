@@ -57,5 +57,7 @@ Os Pull Request somente serão aprovados caso o desafio tenha sido resolvido.
 ---
 
 Não se preocupe caso ache seu código feinho...
+
 Não tenha vergonha.
+
 Estamos aqui para melhorar nosso código e aprender coisas novas!
