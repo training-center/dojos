@@ -23,3 +23,16 @@ Desafios para os membros dos [Grupos de estudos](https://github.com/training-cen
   * [Dojo Exemplo](./exemplo)
 * **Avançado**
   * [Dojo Exemplo](./exemplo)
+
+
+----
+
+## Como tirar dúvidas sobre o desafio
+
+Você pode utilizar issues para chamar o Desenvolvedor que criou o desafio.
+
+Basta seguir o exemplo:
+
+**Título da issue:** Coloque como `Desafio XXX - Dúvida`, onde `Desafio-XXX` é o nome do desafio que foi atribuido pelo autor e `Dúvida` é um título curto para sua dúvida.
+
+**Corpo da issue:** Acrescente informações úteis para que o Avaliador possa te ajudar. Coloque o que você fez, onde ficou travado, se pesquisou no Google (pesquise antes de abrir a issue, ein... ;)) e o que achou sobre o assunto.
