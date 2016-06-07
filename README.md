@@ -4,7 +4,7 @@ Os Dojos devem ser enviados por membros da comunidade para exercitar os particip
 
 Podem ser exercícios rápidos ou demorados, com nível de dificuldade fácil, médio ou avançado e sua dificuldade deve ser especificada com base nas pastas dentro do repositório principal (`dojo-xxx`)
 
-## Exemplo:
+## Exemplo
 
 Esse repositório é uma estrutura inicial para todos os outros Dojos.
 Todos devem seguir essa organização.
