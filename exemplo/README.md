@@ -10,3 +10,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ## Respostas
 
 - [Possíveis soluções](./responses)
+
+## Autor e Avaliador do Desafio
+
+[@woliveiras](https://github.com/woliveiras)
