@@ -36,3 +36,12 @@ Basta seguir o exemplo:
 **Título da issue:** Coloque como `Desafio XXX - Dúvida`, onde `Desafio-XXX` é o nome do desafio que foi atribuido pelo autor e `Dúvida` é um título curto para sua dúvida.
 
 **Corpo da issue:** Acrescente informações úteis para que o Avaliador possa te ajudar. Coloque o que você fez, onde ficou travado, se pesquisou no Google (pesquise antes de abrir a issue, ein... ;)) e o que achou sobre o assunto.
+
+**OBS:** 
+
+*Utilize o recurso de mentions do GitHub para agilizar sua resposta. Coloque no corpo da mensagem uma mensão ao autor.*
+*Como:*
+
+```
+@woliveiras, estou travado em....
+```
