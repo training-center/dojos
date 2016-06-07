@@ -29,7 +29,7 @@ Desafios para os membros dos [Grupos de estudos](https://github.com/training-cen
 
 ## Como tirar dúvidas sobre o desafio
 
-Você pode utilizar issues para chamar o Desenvolvedor que criou o desafio.
+Você pode utilizar issues para chamar o Desenvolvedor que criou o desafio ou para que outra pessoa possa te ajudar.
 
 Basta seguir o exemplo:
 
@@ -45,3 +45,17 @@ Basta seguir o exemplo:
 ```
 @woliveiras, estou travado em....
 ```
+
+## Quem avalia as respostas
+
+Inicialmente a pessoa que criou o desafio vai avaliar, porém qualquer um pode opinar e ajudar a corrigir os desafios.
+
+Os desafios serão corrigidos no Pull Request, então qualquer pessoa pode comentar lá.
+
+Os Pull Request somente serão aprovados caso o desafio tenha sido resolvido.
+
+---
+
+Não se preocupe caso ache seu código feinho...
+Não tenha vergonha.
+Estamos aqui para melhorar nosso código e aprender coisas novas!
