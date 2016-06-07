@@ -17,4 +17,9 @@ Desafios para os membros dos [Grupos de estudos](https://github.com/training-cen
 
 ## Desafios
 
-* [Exemplo](./exemplo)
+* Fácil
+  * [Dojo Exemplo](./exemplo)
+* Intermediário
+  * [Dojo Exemplo](./exemplo)
+* Avançado
+  * [Dojo Exemplo](./exemplo)
