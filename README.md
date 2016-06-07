@@ -61,3 +61,6 @@ Não se preocupe caso ache seu código feinho...
 Não tenha vergonha.
 
 Estamos aqui para melhorar nosso código e aprender coisas novas!
+
+
+Este projeto foi idealizado por: [@WendellAdriel](https://github.com/WendellAdriel), [@woliveiras](https://github.com/woliveiras) e [@brunoventura](https://github.com/brunoventura)
