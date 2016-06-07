@@ -1,6 +1,6 @@
-# JavaScript Dojo
+# Dojo Exemplo
 
-Desafios para os membros dos Grupos de estudos sobre JavaScript
+Desafios para os membros dos [Grupos de estudos](https://github.com/training-center) sobre [xxx]
 
 ## Desafios
 
