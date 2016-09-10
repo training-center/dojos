@@ -1,4 +1,4 @@
-# Dojos
+# Dojos <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
 Os Dojos devem ser enviados por membros da comunidade para exercitar os participantes dos projetos [Mentoria](https://github.com/training-center/mentoria) e [Study Groups](https://github.com/training-center/study-groups).
 
