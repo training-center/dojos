@@ -1,5 +1,11 @@
 # Dojos <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
+<ul>
+  <li><a href="https://ctgroups.herokuapp.com/" target="_blank">Entre no nosso grupo no Slack</a></li>
+  <li><a href="https://twitter.com/ct_org" target="_blank">Siga-nos no Twitter</a></li>
+  <li><a href="https://medium.com/trainingcenter" target="_blank">Leia nossos artigos no Medium</a></li>
+</ul>
+
 Os Dojos devem ser enviados por membros da comunidade para exercitar os participantes dos projetos [Mentoria](https://github.com/training-center/mentoria) e [Study Groups](https://github.com/training-center/study-groups).
 
 Podem ser exercícios rápidos ou demorados, com nível de dificuldade fácil, médio ou avançado e sua dificuldade deve ser especificada com base nas pastas dentro do repositório principal (`dojo-xxx`)
