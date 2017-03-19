@@ -1,9 +1,10 @@
 # Dojos <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
 <ul>
-  <li><a href="https://ctgroups.herokuapp.com/" target="_blank">Entre no nosso grupo no Slack</a></li>
-  <li><a href="https://twitter.com/trainingcentr" target="_blank">Siga-nos no Twitter</a></li>
-  <li><a href="https://medium.com/trainingcenter" target="_blank">Leia nossos artigos no Medium</a></li>
+  <li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
+  <li><a href="https://medium.com/trainingcenter/como-se-comportar-no-slack-do-training-center-a3715fb7c00f" target="_blank" title="Saiba como se comportar no nosso Slack">Saiba como se comportar no nosso Slack</a></li>
+  <li><a href="https://twitter.com/trainingcentr" target="_blank" title="Siga-nos no Twitter">Siga-nos no Twitter</a></li>
+  <li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
 </ul>
 
 Os Dojos devem ser enviados por membros da comunidade para exercitar os participantes dos projetos [Mentoria](https://github.com/training-center/mentoria) e [Study Groups](https://github.com/training-center/study-groups).
