@@ -1,0 +1,14 @@
+{
+  "name": "max_min_sum",
+  "version": "1.0.0",
+  "description": "Prtojeto desenvolvido no Dojo do TC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lflimeira <lflimeira02@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
