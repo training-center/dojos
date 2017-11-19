@@ -16,9 +16,8 @@ const sortParams = (params) => {
 const minSum = (params) =>
 {
   let newParams = sortParams(params);
-  newParams.pop();
+  newParams = params.slice(0,4);
 
-  console.log(newParams)
   return newParams.reduce((a,b)=>{
     return a+b;
   });
@@ -27,7 +26,7 @@ const minSum = (params) =>
 const maxSum = (params) =>
 {
   let newParams = sortParams(params);
-  newParams.shift();
+  newParams = params.slice(1,5);
 
   return newParams.reduce((a,b)=>{
     return a+b;
