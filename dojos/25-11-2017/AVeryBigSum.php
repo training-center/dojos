@@ -3,6 +3,8 @@ namespace Dojo;
 
 class AVeryBigSum {
   function veryBigSum($tamanho, $arr) {
-    return "Array com tamanho Diferente";
+    if(count($arr)!=$tamanho){
+      return "Array com tamanho Diferente";
+    }
   }
 }
