@@ -1,0 +1,14 @@
+{
+  "name": "dojo/25-11-2017",
+  "description": "Dojo realizado no dia 25-11-2017",
+  "autoload": {
+    "psr-4": {
+      "Dojo\\": "./"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.4"
+  },
+  "require": {}
+}
+
