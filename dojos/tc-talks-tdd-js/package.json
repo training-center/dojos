@@ -4,11 +4,10 @@
   "description": "Projeto criado no Dojo realizado no TC Talks #6 ",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js --require babel-register",
+    "start": "node index.js",
     "prepush": "npm run test:coverage",
-    "lint": "./node_modules/.bin/eslint *.js",
-    "test": "./node_modules/.bin/mocha tests/**/*.test.js --require babel-register",
-    "test:tdd": "./node_modules/.bin/mocha tests/**/*.test.js --require babel-register --watch",
+    "test": "./node_modules/.bin/mocha tests/**/*.test.js",
+    "test:tdd": "./node_modules/.bin/mocha tests/**/*.test.js --watch",
     "test:coverage": "nyc npm test"
   },
   "nyc": {
@@ -44,15 +43,6 @@
   },
   "homepage": "https://github.com/training-center/dojos#readme",
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.1",
-    "babel-preset-es2015-native-modules": "^6.9.4",
-    "babel-register": "^6.26.0",
-    "chai": "^4.1.2",
-    "eslint": "^4.10.0",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.8.0",
     "husky": "^0.14.3",
     "mocha": "^5.0.1",
     "nyc": "^11.5.0"
